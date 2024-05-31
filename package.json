@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "mysql": "^2.18.1"
-  }
+  },
+  "name": "dbman",
+  "version": "1.0.0",
+  "description": "Db Manager",
+  "main": "index.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debdutta-Panda/dbm.git"
+  },
+  "keywords": [
+    "MySql",
+    "Database"
+  ],
+  "author": "Debdutta Panda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debdutta-Panda/dbm/issues"
+  },
+  "homepage": "https://github.com/Debdutta-Panda/dbm#readme"
 }
